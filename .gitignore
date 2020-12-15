@@ -1,6 +1,4 @@
 .vs/
 Debug
-*.vcxproj
-*.vcxproj*
 sorted.txt
 unsorted.txt
